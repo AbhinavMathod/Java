@@ -20,6 +20,7 @@ How to execute the project?
 4. Run the project 
 
 5. The database used by us is DB4O. We have saved a few logins to save the trouble for you to create all admins and logins and because of this reason due to an exception you will not be able to access the admin page to create all the enterprise and organizational admins. The following are the usernames and passwords foreach admin : 
+
 Mental healthcare admin login 
 Username : mhc
 Pwd : mhc
